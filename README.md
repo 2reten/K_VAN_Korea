@@ -61,7 +61,7 @@
 
 ### 구역별 근무시간
 
-![alt text](image.png)
+
 ![alt text](image-1.png)
 
 
@@ -83,4 +83,4 @@
 - 코드 및 결과물은 한글 환경(폰트, 공휴일 등 최적화)
 
 - 근무표 출력 예시
-![alt text](image-2.png)
+<img width="1358" height="420" alt="Image" src="https://github.com/user-attachments/assets/b46b6ff7-6f30-4a3c-8a3c-2bca3083bbf5" />
