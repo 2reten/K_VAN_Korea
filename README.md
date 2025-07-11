@@ -66,7 +66,7 @@
 
 ### 1일 근무표 시각화
 
-<img width="783" height="720" alt="Image" src="https://github.com/user-attachments/assets/e5a73ed8-913f-4e99-a9df-9f403017a1c4" />
+<img width="782" height="721" alt="image" src="https://github.com/user-attachments/assets/f88c3bc6-efc7-497a-bdad-3e5cf5deb660" />
 
 ## 사용 방법
 
