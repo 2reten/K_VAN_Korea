@@ -13,6 +13,20 @@
 - 근무 구역 별 근무 시간·수당 자동 반영
 - 엑셀 및 시각화 결과물 자동 생성
 
+
+<div align="center"><h1>📚 STACKS</h1></div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/matplotlib-FF7F00?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/holidays-0078D7?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+
+
 ## 주요 코드 구조
 
 ### 기본 설정
