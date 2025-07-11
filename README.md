@@ -64,6 +64,9 @@
 <img width="349" height="387" alt="Image" src="https://github.com/user-attachments/assets/37c65a26-355d-4a9a-a351-1439e08765ae" />
 <img width="349" height="369" alt="Image" src="https://github.com/user-attachments/assets/67c41065-4c7b-4137-b9ac-055403baefb1" />
 
+### 1일 근무표 시각화
+
+<img width="783" height="720" alt="Image" src="https://github.com/user-attachments/assets/e5a73ed8-913f-4e99-a9df-9f403017a1c4" />
 
 ## 사용 방법
 
