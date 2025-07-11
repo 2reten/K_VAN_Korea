@@ -61,8 +61,9 @@
 
 ### 구역별 근무시간
 
-<img width="344" height="361" alt="Image" src="https://github.com/user-attachments/assets/5c30f60b-1371-4543-8262-c1c064be269f" />
 <img width="343" height="381" alt="Image" src="https://github.com/user-attachments/assets/12691e11-89ac-42f0-b188-dcb85c84a4f7" />
+
+<img width="344" height="361" alt="Image" src="https://github.com/user-attachments/assets/5c30f60b-1371-4543-8262-c1c064be269f" />
 
 
 ## 사용 방법
