@@ -144,7 +144,7 @@
 <br>
 - 초기 페이지
 <p align="center">
-<img width="512" height="755" alt="image" src="https://github.com/user-attachments/assets/762d042b-6f8c-4dac-ac2d-57314f30a04f" />
+<img width="501" height="739" alt="Image" src="https://github.com/user-attachments/assets/2455e7e8-84cf-4680-860f-939a4318ae87" />
 </p>
 <br>
 
