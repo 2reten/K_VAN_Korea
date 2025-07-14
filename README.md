@@ -140,7 +140,7 @@
 
 ---
 ## 2025.07.15 변경사항 추가
-- Figma를 통한 UI 수정(미구현)
+- Figma를 통한 UI 수정(진행중)
 <br>
 - 초기 페이지
 <p align="center">
@@ -149,6 +149,9 @@
 <br>
 
 ### 시연동영상
-https://github.com/user-attachments/assets/76dd052a-b94a-43b4-b332-25253db5c006
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/76dd052a-b94a-43b4-b332-25253db5c006" controls style="max-width: 100%; height: auto;">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
