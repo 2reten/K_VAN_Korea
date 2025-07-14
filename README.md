@@ -148,9 +148,11 @@
 </p>
 <br>
 
+
+
 ### 시연동영상
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/76dd052a-b94a-43b4-b332-25253db5c006" controls style="max-width: 100%; height: auto;">
+  <video src="https://github.com/user-attachments/assets/b4446a3a-4576-4fc5-ba54-92e37673d164" controls style="max-width: 100%; height: auto;">
     Your browser does not support the video tag.
   </video>
 </div>
