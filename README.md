@@ -138,3 +138,17 @@
 <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/806b1b22-8701-4b76-ba4a-1160019f5542" />
 <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/a52c771e-babd-4577-b3bd-399a383c214b" />
 
+---
+## 2025.07.15 변경사항 추가
+- Figma를 통한 UI 수정(미구현)
+<br>
+- 초기 페이지
+<p align="center">
+<img width="545" height="798" alt="image" src="https://github.com/user-attachments/assets/a5ed78c3-4812-4397-9e09-3f17a2cc0e7f" />
+</p>
+<br>
+
+### 시연동영상
+https://github.com/user-attachments/assets/76dd052a-b94a-43b4-b332-25253db5c006
+
+
