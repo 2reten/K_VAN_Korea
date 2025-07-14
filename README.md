@@ -102,3 +102,30 @@
 
 - 근무표 출력 예시
 <img width="1358" height="420" alt="Image" src="https://github.com/user-attachments/assets/b46b6ff7-6f30-4a3c-8a3c-2bca3083bbf5" />
+
+
+---
+## 2025.07.14 변경사항 추가
+- Streamlit을 통한 웹 구현
+- 드라이버 인적사항 등록 기능 추가
+
+### 사이드바
+- 드라이버 정보 입력
+- 시작 날짜
+- 생성할 기간(일)
+- 시간당 임금(원)
+- 스케줄 생성 및 분석 실행
+<p align="center">
+<img width="320" height="642" alt="image" src="https://github.com/user-attachments/assets/75927db8-ce7b-4d36-9028-ee42e2fa302b" />
+</p>
+<br>
+
+### 드라이버 정보 입력
+- 이름
+- 생년월일
+- 성별
+- 전화번호
+<p align="center">
+<img width="308" height="811" alt="image" src="https://github.com/user-attachments/assets/800633bf-c19a-4636-a79e-858664ade9e0" />
+</p>
+<br>
