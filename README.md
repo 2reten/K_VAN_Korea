@@ -20,9 +20,11 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/matplotlib-FF7F00?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/holidays-0078D7?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 <br>
 <br>
@@ -129,3 +131,10 @@
 <img width="308" height="811" alt="image" src="https://github.com/user-attachments/assets/800633bf-c19a-4636-a79e-858664ade9e0" />
 </p>
 <br>
+
+
+## 전체 페이지
+<img width="1920" height="1029" alt="image" src="https://github.com/user-attachments/assets/d12fc2d5-8ff1-47f6-b08f-d05eee3518e2" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/806b1b22-8701-4b76-ba4a-1160019f5542" />
+<img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/a52c771e-babd-4577-b3bd-399a383c214b" />
+
